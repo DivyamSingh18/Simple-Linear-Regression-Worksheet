@@ -2,8 +2,8 @@
 This is a simple worksheet in which a very simple Linear Regression model is created.
 
 * Modules used :
->pandas
->numpy
->matplotlib.pyplot
->seaborn
->sklearn
+>pandas   <br>
+>numpy    <br>
+>matplotlib.pyplot    <br>
+>seaborn   <br>
+>sklearn    <br>
