@@ -4,6 +4,6 @@ This is a simple worksheet in which a very simple Linear Regression model is cre
 * Modules used :
 >pandas   <br>
 >numpy    <br>
->matplotlib.pyplot    <br>
+>matplotlib    <br>
 >seaborn   <br>
 >sklearn    <br>
